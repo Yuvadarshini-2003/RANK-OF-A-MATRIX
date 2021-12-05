@@ -16,12 +16,12 @@ Print the matrix and conclude the program
 ## Program:
 ~~~
 import numpy as np
-A=np.array( [[1,2,3],[3,6,9]])
+A=np.array( [[5,-3,10],[2,2,-3],[-3,-1,5]])
 rank=np.linalg.matrix_rank(A)
 print(rank)
 ~~~
 ## Output:
-![GitHub Logo](rank.png)
+![GitHub Logo](mat2.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
