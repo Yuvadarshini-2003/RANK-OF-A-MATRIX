@@ -21,7 +21,7 @@ rank=np.linalg.matrix_rank(A)
 print(rank)
 ~~~
 ## Output:
-![GitHub Logo](rank.png)
+![GitHub Logo](m2.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
